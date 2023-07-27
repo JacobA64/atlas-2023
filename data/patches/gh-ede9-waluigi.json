@@ -1,0 +1,77 @@
+{
+	"id": -1,
+	"name": "Waluigi",
+	"description": "Waluigi is Luigi's lanky rival and Wario's partner. Waluigi made his debut in Mario Tennis, and since then, he has made playable appearances exclusively in the Super Mario franchise's spin-off titles.\n\nThe above text is from the Super Mario Wiki and is available under a Creative Commons license. Attribution must be provided through a list of authors or a link back to the original article. Source: https://www.mariowiki.com/Waluigi",
+	"links": {
+		"website": [
+			"https://www.mariowiki.com/Waluigi",
+			"https://en.wikipedia.org/wiki/Waluigi"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				-240,
+				859
+			],
+			[
+				-243,
+				859
+			],
+			[
+				-240,
+				862
+			],
+			[
+				-249,
+				862
+			],
+			[
+				-249,
+				859
+			],
+			[
+				-250,
+				861
+			],
+			[
+				-250,
+				857
+			],
+			[
+				-251,
+				858
+			],
+			[
+				-251,
+				856
+			],
+			[
+				-240,
+				856
+			],
+			[
+				-249,
+				855
+			],
+			[
+				-247,
+				853
+			],
+			[
+				-243,
+				852
+			],
+			[
+				-242,
+				854
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-246,
+			859
+		]
+	}
+}
